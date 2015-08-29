@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Meanbee_MagehackTheme>
+            <version>1.0.0</version>
+        </Meanbee_MagehackTheme>
+    </modules>
+    <global>
+    </global>
+</config>

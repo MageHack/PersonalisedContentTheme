@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Meanbee_MagehackTheme>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends></depends>
+        </Meanbee_MagehackTheme>
+    </modules>
+</config>
