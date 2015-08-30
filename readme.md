@@ -23,11 +23,11 @@ Tom has bought a product from the home category.
 
 ### Logged in as Ash
 
-![image](docs/home_home.png)
+![image](docs/home_mens.png)
 
 ### Logged in as Tom
 
-![image](docs/home_mens.png)
+![image](docs/home_home.png)
 
 Support
 -------
