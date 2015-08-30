@@ -1,55 +1,49 @@
 Meanbee MagehackTheme Extension
 =====================
-Add your description here
-Facts
------
-- version: 1.0.0
-- extension key: Meanbee_MagehackTheme
-- [extension on Magento Connect](http://www.magentocommerce.com/magento-connect/meanbee)-magehacktheme-1234.html)
-- Magento Connect 1.0 extension key: magento-community/Meanbee_MagehackTheme
-- Magento Connect 2.0 extension key: http://connect20.magentocommerce.com/community/Meanbee_MagehackTheme
-- [extension on GitHub](https://github.com/meanbee/Meanbee_MagehackTheme)
-- [direct download link](http://connect.magentocommerce.com/community/get/Meanbee_MagehackTheme-1.0.0.tgz)
+
+This is a demo theme for the [Meanbee_PersonalisedContent](https://github.com/MageHack/PersonalisedContent) extension.
+
 
 Description
 -----------
-This paragraph describes what the extension does.
+This demo theme installs demo styles, customers, orders and homepage setup to demo the [Meanbee_PersonalisedContent](https://github.com/MageHack/PersonalisedContent) extension.
 
-Requirements
-------------
-- PHP >= 5.2.0
-- Mage_Core
-- ...
+Two customers
 
-Compatibility
--------------
-- Magento >= 1.4
+* ash@example.com password1
+* tom@example.com password1
 
-Installation Instructions
--------------------------
-1. Install the extension via Magento Connect with the key shown above or copy all the files into your document root.
-2. Clear the cache, logout from the admin panel and then login again.
-3. Configure and activate the extension under System - Configuration - Company - Example Extension.
-4. ...
+Ash has bought a product from the men category.
+Tom has bought a product from the home category.
 
-Uninstallation
---------------
-1. Remove all extension files from your Magento installation
-2. ...
+### Logged out
+
+![image](docs/home_default.png =500x)
+
+
+### Logged in as Ash
+
+![image](docs/home_home.png =500x)
+
+### Logged in as Tom
+
+![image](docs/home_mens.png =500x)
 
 Support
 -------
-If you have any issues with this extension, open an issue on [GitHub](https://github.com/meanbee/Meanbee_MagehackTheme/issues).
+If you have any issues with this extension, open an issue on [GitHub](https://github.com/meanbee/Meanbee_PersonalisedContent/issues).
 
 Contribution
 ------------
 Any contribution is highly appreciated. The best way to contribute code is to open a [pull request on GitHub](https://help.github.com/articles/using-pull-requests).
 
-Developer
+Project Team
 ---------
 
-[http://www.firstname-lastname.com](http://www.firstname-lastname.com)
-[@FirstNameLastName](https://twitter.com/FirstNameLastName)
+* [Ash Smith](https://twitter.com/ashsmithco)
+* [Tom Robertshaw](https://twitter.com/bobbyshaw)
+* [Doug Ogisi](https://www.linkedin.com/pub/douglas-ogisi/1b/964/35b)
+* [Shari Robertshaw](https://twitter.com/sharibary)
 
 Licence
 -------
