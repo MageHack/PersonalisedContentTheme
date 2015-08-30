@@ -1,0 +1,57 @@
+
+/* Fonts */
+.price-box .price, .price,
+.products-grid .product-name, .products-list .product-name,
+body, body, button, input, select, table, textarea,
+h2, .h2,
+.header-language-container, .page-header, .copyright,
+.button, .cart-table .product-cart-actions .button, #co-shipping-method-form .buttons-set .button, .footer .button
+{
+    font-family: "Muli", sans-serif;
+}
+
+.nav-primary a
+{
+    font-family: "Cardo-Regular", serif;
+}
+
+
+.footer,
+.footer button {
+    font-family: "Muli", sans-serif;
+}
+.footer .block-title,
+.footer address,
+.block-title h2,
+.block-title h3,
+.block-title strong {
+    font-family: "Cardo-Bold", serif;
+}
+
+/* Colours... */
+
+.header-language-background {
+    background-color: #000000;
+}
+
+#header-nav,
+body.cms-home .slideshow-container,
+.slideshow {
+    border: none;
+}
+
+.nav-primary a {
+    color: #4A4A4A;
+}
+.footer .block-title,
+.footer address,
+.block-title h2,
+.block-title h3,
+.block-title strong {
+    color: #000;
+}
+
+.button, .cart-table .product-cart-actions .button, #co-shipping-method-form .buttons-set .button, .footer .button {
+    background-color: #000;
+    color: #fff;
+}
