@@ -18,16 +18,16 @@ Tom has bought a product from the home category.
 
 ### Logged out
 
-![image](docs/home_default.png =500x)
+![image](docs/home_default.png)
 
 
 ### Logged in as Ash
 
-![image](docs/home_home.png =500x)
+![image](docs/home_home.png)
 
 ### Logged in as Tom
 
-![image](docs/home_mens.png =500x)
+![image](docs/home_mens.png)
 
 Support
 -------
