@@ -78,5 +78,6 @@ $installer->updateCmsPage('home', array(
 			<img src="{{skin url="images/mens-travel-bags.png"}}" alt="Travel Gear for Every Occasion" />
 		</a>
 	</li>
-</ul>'
+</ul>',
+    'root_template' => 'one_column'
 ));
