@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<theme>
+   <parent>rwd/default</parent>
+    <layout>
+       <updates>
+           <my_new_file_name>
+                <file>magehack.xml</file>
+            </my_new_file_name>
+        </updates>
+    </layout>
+</theme>
+
