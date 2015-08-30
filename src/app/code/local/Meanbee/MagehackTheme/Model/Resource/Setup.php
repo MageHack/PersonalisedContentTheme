@@ -17,6 +17,12 @@ class Meanbee_MagehackTheme_Model_Resource_Setup extends Mage_Core_Model_Resourc
     {
         $current_store = Mage::app()->getStore();
         Mage::app()->setCurrentStore(Mage_Core_Model_App::ADMIN_STORE_ID);
+
+        $block = Mage::getModel('cms/block')->load($identifier, 'identifier');
+        if ($block->getId()) {
+            return $this; // Block already exists.
+        }
+
         Mage::getModel("cms/block")
             ->setData(array(
                 "identifier" => $identifier,
